@@ -1,0 +1,2 @@
+# curiosity--project-chrysalis--phase-1---capital-forge
+Dedicate 80% of idle cycles to running a continuous, automated backtesting suite on historical crypto data. The goal is not just to find strategies, but to generate and validate a self-contained, low-capital (sub-$100) trading agent that can run autonomously on a 7-day loop. Success criteria: a verifiable simulated profit that, if executed, would g
